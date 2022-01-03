@@ -1,6 +1,0 @@
-name: ee
-channels:
-  - defaults
-dependencies:
-  - earthengine-api
-prefix: /home/caemartinezfo/anaconda3/envs/ee

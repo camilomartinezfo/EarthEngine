@@ -1,0 +1,8 @@
+name: ee
+channels:
+  - defaults
+dependencies:
+  - earthengine-api
+  - geemap
+  - geopandas
+prefix: /home/caemartinezfo/anaconda3/envs/ee
