@@ -1,0 +1,7 @@
+name: EarthEngine
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+prefix: /home/caemartinezfo/anaconda3/envs/EarthEngine
