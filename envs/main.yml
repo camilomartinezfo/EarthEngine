@@ -1,7 +1,6 @@
-name: EarthEngine
+name: ee
 channels:
   - defaults
 dependencies:
-  - python=3.8
-  - pandas
-prefix: /home/caemartinezfo/anaconda3/envs/EarthEngine
+  - earthengine-api
+prefix: /home/caemartinezfo/anaconda3/envs/ee
